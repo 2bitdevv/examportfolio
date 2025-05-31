@@ -484,6 +484,15 @@ nav {
     --spacing-lg: 24px;
     --spacing-xl: 32px;
   }
+  .skills-row {
+  max-width: 270px;
+}
+
+.skills-column {
+  min-width: 300px;
+  height: 440px;
+}
+
   
   .text-descript h2 {
     font-size: 1.8rem;

@@ -54,10 +54,10 @@ function App() {
               I'm passionate about technology and eager to become a skilled software developer.
               I enjoy coding, learning, and building real-world applications that make a difference.
             </p>
-             <span><a href="https://github.com/DevBbest">read more at git click !!!</a></span>
+             <span><a href="https://github.com/2bitdevv">read more at git click !!!</a></span>
             <h2>Example Portfolio</h2>
             <div className="social-media">
-              <a href="https://github.com/DevBbest" aria-label="GitHub"><Github /></a>
+              <a href="https://github.com/2bitdevv" aria-label="GitHub"><Github /></a>
               <a href="#" aria-label="Instagram"><Instagram /></a>
               <a href="#" aria-label="LinkedIn"><Linkedin /></a>
               <a href="#" aria-label="YouTube"><Youtube /></a>
@@ -159,7 +159,7 @@ function App() {
             <a href="#" aria-label="Instagram"><Instagram /></a>
           </div>
           <div className="contact-item">
-            <a href="https://github.com/DevBbest" aria-label="GitHub"><Github /></a>
+            <a href="https://github.com/2bitdevv" aria-label="GitHub"><Github /></a>
           </div>
           <div className="contact-item">
             <a href="#" aria-label="Twitter"><Twitter /></a>
@@ -168,7 +168,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        Copyright © &nbsp;<a href="#"><span>&nbsp;Thanaphat Sopharat&nbsp;</span></a>&nbsp;| &nbsp;All Rights Reserved
+        Copyright © &nbsp;<a href="https://github.com/2bitdevv"><span>&nbsp;Thanaphat Sopharat&nbsp;</span></a>&nbsp;| &nbsp;All Rights Reserved
       </footer>
     </div>
   );
