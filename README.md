@@ -28,6 +28,6 @@ Welcome to my **Personal Exam Portfolio Website**, built with [Vite](https://vit
 
 ## 📸 Preview
 
-![screenshot](./preview.png) <!-- ใส่รูปจากโปรเจกต์ หรือใช้ URL -->
+![screenshot](./bannerExam.jpg) <!-- ใส่รูปจากโปรเจกต์ หรือใช้ URL -->
 
 ---
